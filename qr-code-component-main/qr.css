@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+
+
+body
+{   font-family: 'Outfit', sans-serif;
+        background-color: hsl(212, 94%, 53%);
+            max-width: 100vh;   }
+
+.caixa
+{   background-color: blueviolet;
+   margin-left: 100;
+margin-right: 150;
+ }
+
+
+            
